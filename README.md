@@ -78,8 +78,3 @@ A inteligência artificial pode me ajudar em diversas partes do processo:
 
 ---
 
-## 🚀 Próximos Passos
-- Criar portfólio com meus principais projetos no GitHub.  
-- Divulgar meus serviços em plataformas de freelancers.  
-- Criar conteúdo técnico sobre segurança e desenvolvimento web.  
-- Buscar parcerias com pequenas empresas locais.
